@@ -1,2 +1,2 @@
 # nixie_clock
-simple self-made nixie clock
+self-made nixie clock
